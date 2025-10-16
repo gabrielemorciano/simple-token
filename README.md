@@ -143,4 +143,4 @@ Average gas costs (Sepolia):
 
 ##  Screenshots
 
-![Contract on Etherscan](./docs/etherscan-screenshot.png)
+![Contract on Etherscan](docs/etherscan-screenshot.png)
