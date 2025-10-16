@@ -140,7 +140,3 @@ Average gas costs (Sepolia):
 - Built as part of blockchain security learning journey
 - Inspired by ERC20 standard and OpenZeppelin implementations
 - Testing framework powered by Foundry
-
-##  Screenshots
-
-![Contract on Etherscan](docs/etherscan-screenshot.png)
